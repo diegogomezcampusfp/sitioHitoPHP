@@ -11,15 +11,15 @@
     echo "<h1> Hito Diego Gómez González </h1> ";
     //bindec
     echo "<h2> Cambio de binario a decimal </h2>";
-    "<p> Introduzco el número binario 001110001 usando BINDEC.</p>";
+    echo "<p> Introduzco el número binario 001110001 usando BINDEC.</p>";
     echo bindec('<h1>001110001</h1>');
     //octdec
     echo "<h2> Cambio de octal a decimal </h2>";
-    "<p> Introduzco el número 50 usando OCTDEC.</p>";
+    echo "<p> Introduzco el número 50 usando OCTDEC.</p>";
     echo octdec('<h1>50</h1>');
     //hexdec
     echo "<h2> Cambio de hexadecimal a decimal </h2>";
-    "<p> Introduzco mi nombre usando HEXDEC.</p>";
+    echo "<p> Introduzco mi nombre usando HEXDEC.</p>";
     echo hexdec('<h1>Diego</h1>');
     //base_convert
     echo "<h2> Muestra en una cadena el número introducido en base a_base, es decir: </h2>";
