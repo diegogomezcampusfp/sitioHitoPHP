@@ -6,9 +6,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Conversión PHP</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/estilo.css">
 </head>
 <body>
-    <h2>Hito 1</h2>
+    <h1>Hito 1</h1>
     <form action="calcular.php" method="post">
             <label for="conversion">Convertir número</label>
             <input type="number" id="conversion" name="n">
