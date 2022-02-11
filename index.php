@@ -10,7 +10,7 @@
 </head>
 <body>
     <h1>Hito 1</h1>
-    <form action="calcular.php" method="post">
+    <form action="funcion.php" method="post">
             <label for="conversion">Convertir número</label>
             <input type="number" id="conversion" name="n">
         <button type="submit" class="btn btn-primary">Convertir</button>
